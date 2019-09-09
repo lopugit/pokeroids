@@ -1,0 +1,25 @@
+{
+  "name": "2019assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asteroids.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopugit/pokeroids.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopugit/pokeroids/issues"
+  },
+  "homepage": "https://github.com/lopugit/pokeroids#readme",
+  "dependencies": {
+    "javascript-obfuscator": "^0.18.1"
+  }
+}
