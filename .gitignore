@@ -1,3 +1,4 @@
 *.ts
 asteroids.js
+asteroids.js.map
 node_modules
